@@ -1,0 +1,30 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Symmetrical Radiant Rays representing "Luz" (Light) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,16 L54,24 M54,84 L54,92 M24,54 L16,54 M92,54 L84,54 M31.5,31.5 L37.2,37.2 M70.8,70.8 L76.5,76.5 M31.5,76.5 L37.2,70.8 M70.8,37.2 L76.5,31.5"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="4"
+        android:strokeLineCap="round" />
+
+    <!-- Radiant Bulb Center Globule -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,34 C42.9,34 34,42.9 34,54 C34,61.1 37.7,67.3 43.3,70.8 L43.3,77 L64.7,77 L64.7,70.8 C70.3,67.3 74,61.1 74,54 C74,42.9 65.1,34 54,34 Z"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2"
+        android:strokeLineJoin="round" />
+        
+    <!-- Bulb Metallic Threads contacts -->
+    <path
+        android:fillColor="#EAE5DF"
+        android:pathData="M47.5,77 L60.5,77 L57.5,83 L50.5,83 Z"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.5"
+        android:strokeLineJoin="round" />
+</vector>

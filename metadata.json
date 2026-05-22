@@ -1,0 +1,6 @@
+{
+  "name": "ClipLuz",
+  "description": "Convierte capturas, imágenes, PDFs, notas y textos locales en tarjetas organizadas, listas de tareas de acción y hermosas exportaciones de manera offline y privada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
